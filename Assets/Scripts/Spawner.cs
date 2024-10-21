@@ -40,7 +40,7 @@ public class Spawner : MonoBehaviour
     {
         index = Random.Range(0, spawnLocationsList.Count);
         spawnLocation = spawnLocationsList[index];
-        GameObject spawnLocation = Instantiate(enemyGO, spawnLocationsList[index].transform.position, enemiesList[index].transform.rotation);
+        spawnLocation = Instantiate(enemyGO, spawnLocationsList[index].transform.position, enemiesList[index].transform.rotation);
         enemiesList.Remove(spawnLocation);
     }
 
