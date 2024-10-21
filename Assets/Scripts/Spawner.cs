@@ -17,7 +17,7 @@ public class Spawner : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        SpawnForLoop();
     }
 
     // Update is called once per frame
@@ -25,9 +25,10 @@ public class Spawner : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.K))
         {
-            SpawnEnemies();
+            //SpawnEnemies();
+            SpawnForLoop();
         }
-        SpawnAtLocations();
+        //SpawnAtLocations();
     }
 
     private void SpawnEnemies()
@@ -40,8 +41,8 @@ public class Spawner : MonoBehaviour
     {
         index = Random.Range(0, spawnLocationsList.Count);
         spawnLocation = spawnLocationsList[index];
-        spawnLocation = Instantiate(enemyGO, spawnLocationsList[index].transform.position, enemiesList[index].transform.rotation);
-        enemiesList.Remove(spawnLocation);
+        GameObject enemy  = Instantiate(enemyGO, spawnLocationsList[index].transform.position, enemiesList[index].transform.rotation);
+        enemiesList.Remove(enemy);
     }
 
     private void AddToInventory()
@@ -55,6 +56,23 @@ public class Spawner : MonoBehaviour
         {
             pickedUpItem = other.gameObject;
             AddToInventory();
+        }
+    }
+    private void SpawnForLoop()
+    {
+        for(int i = 0; i < spawnLocationsList.Count; i++)
+        {
+            //spawnLocationsList[i].SetActive(true);
+            if(spawnLocationsList[i].transform.tag == "ToughSpawn")
+            {
+                //Spawn the tough enemy!
+            }
+            else
+            {
+                //Only weak enemies spawn here...
+                Instantiate(enemyGO, spawnLocationsList[i].transform.position, spawnLocationsList[i].transform.rotation);
+            }
+            spawnLocationsList[i].SetActive(false);
         }
     }
 

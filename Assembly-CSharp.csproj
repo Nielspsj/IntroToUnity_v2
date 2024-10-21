@@ -66,10 +66,12 @@
     <Compile Include="Assets\Scripts\SelectionStatements\RollDice.cs" />
     <Compile Include="Assets\Scripts\SelectionStatements\IfStatements1.cs" />
     <Compile Include="Assets\Scripts\PlayerControllers\SimpleController.cs" />
+    <Compile Include="Assets\Scripts\IterationStatements\DamageHealing.cs" />
     <Compile Include="Assets\Scripts\MenuManager.cs" />
     <Compile Include="Assets\Scripts\Playground\ProjectileLife.cs" />
     <Compile Include="Assets\Scripts\Intro\ScriptCreated2.cs" />
     <Compile Include="Assets\Scripts\Vectors\TranslateThatCube.cs" />
+    <Compile Include="Assets\Scripts\ReloadDelay.cs" />
     <Compile Include="Assets\Scripts\SelectionStatements\IfStatements5.cs" />
     <Compile Include="Assets\Scripts\Collisions\MovingPlatform.cs" />
     <Compile Include="Assets\Scripts\Spawner.cs" />
