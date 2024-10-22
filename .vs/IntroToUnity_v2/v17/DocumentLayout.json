@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\",
+  "WorkspaceRootPath": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\iterationstatements\\damagehealing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|c:\\users\\niels\\stuff\\unityprojects\\introforunity\\introtounity_v2\\assets\\scripts\\iterationstatements\\damagehealing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iterationstatements\\damagehealing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|c:\\users\\niels\\unityprojects\\introtounity_v2\\assets\\scripts\\reloaddelay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\assets\\scripts\\reloaddelay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\reloaddelay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\playercontrollers\\playerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\assets\\scripts\\playercontrollers\\playerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrollers\\playerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\raycast\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\assets\\scripts\\raycast\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycast\\groundcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\playercontrollers\\velocitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\assets\\scripts\\playercontrollers\\velocitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrollers\\velocitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\playercontrollers\\unityctrlindirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\assets\\scripts\\playercontrollers\\unityctrlindirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrollers\\unityctrlindirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\random\\diceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\assets\\scripts\\random\\diceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\random\\diceroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\collisions\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\assets\\scripts\\collisions\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collisions\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\playercontrollers\\velocityrollaround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\assets\\scripts\\playercontrollers\\velocityrollaround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrollers\\velocityrollaround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\collisions\\launchpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\assets\\scripts\\collisions\\launchpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collisions\\launchpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,13 +62,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ReloadDelay.cs",
-              "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\ReloadDelay.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\ReloadDelay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ReloadDelay.cs",
-              "ToolTip": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\ReloadDelay.cs",
+              "ToolTip": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\ReloadDelay.cs",
               "RelativeToolTip": "Assets\\Scripts\\ReloadDelay.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCUAAAA5AAAAAAAAAA==",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T20:23:21.996Z",
               "EditorCaption": ""
@@ -77,24 +77,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DamageHealing.cs",
-              "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\IterationStatements\\DamageHealing.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\IterationStatements\\DamageHealing.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IterationStatements\\DamageHealing.cs",
-              "ToolTip": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\IterationStatements\\DamageHealing.cs",
+              "ToolTip": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\IterationStatements\\DamageHealing.cs",
               "RelativeToolTip": "Assets\\Scripts\\IterationStatements\\DamageHealing.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAFAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T19:56:26.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Spawner.cs",
-              "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\Spawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
-              "ToolTip": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Spawner.cs",
+              "ToolTip": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\Spawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwEkAAAANAAAAAAAAAA==",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T07:56:50.884Z",
               "EditorCaption": ""
@@ -103,9 +103,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PlayerBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\PlayerBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\PlayerBehavior.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControllers\\PlayerBehavior.cs",
-              "ToolTip": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\PlayerBehavior.cs",
+              "ToolTip": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\PlayerBehavior.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerControllers\\PlayerBehavior.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAgwAAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,9 +115,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GroundCheck.cs",
-              "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Raycast\\GroundCheck.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\Raycast\\GroundCheck.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Raycast\\GroundCheck.cs",
-              "ToolTip": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Raycast\\GroundCheck.cs",
+              "ToolTip": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\Raycast\\GroundCheck.cs",
               "RelativeToolTip": "Assets\\Scripts\\Raycast\\GroundCheck.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,9 +127,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "VelocityController.cs",
-              "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\VelocityController.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\VelocityController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControllers\\VelocityController.cs",
-              "ToolTip": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\VelocityController.cs",
+              "ToolTip": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\VelocityController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerControllers\\VelocityController.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAYwDIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,9 +139,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "UnityCtrlInDirection.cs",
-              "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\UnityCtrlInDirection.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\UnityCtrlInDirection.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControllers\\UnityCtrlInDirection.cs",
-              "ToolTip": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\UnityCtrlInDirection.cs",
+              "ToolTip": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\UnityCtrlInDirection.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerControllers\\UnityCtrlInDirection.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAQwBgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,9 +151,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "DiceRoller.cs",
-              "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Random\\DiceRoller.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\Random\\DiceRoller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Random\\DiceRoller.cs",
-              "ToolTip": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Random\\DiceRoller.cs",
+              "ToolTip": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\Random\\DiceRoller.cs",
               "RelativeToolTip": "Assets\\Scripts\\Random\\DiceRoller.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwCUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,9 +163,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MenuManager.cs",
-              "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\MenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
-              "ToolTip": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\MenuManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,9 +175,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Pickup.cs",
-              "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Collisions\\Pickup.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\Collisions\\Pickup.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Collisions\\Pickup.cs",
-              "ToolTip": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Collisions\\Pickup.cs",
+              "ToolTip": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\Collisions\\Pickup.cs",
               "RelativeToolTip": "Assets\\Scripts\\Collisions\\Pickup.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,9 +187,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "VelocityRollAround.cs",
-              "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\VelocityRollAround.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\VelocityRollAround.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControllers\\VelocityRollAround.cs",
-              "ToolTip": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\VelocityRollAround.cs",
+              "ToolTip": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\VelocityRollAround.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerControllers\\VelocityRollAround.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAuwB8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,9 +199,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "LaunchPad.cs",
-              "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Collisions\\LaunchPad.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\Collisions\\LaunchPad.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Collisions\\LaunchPad.cs",
-              "ToolTip": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Collisions\\LaunchPad.cs",
+              "ToolTip": "C:\\Users\\niels\\Stuff\\UnityProjects\\IntroForUnity\\IntroToUnity_v2\\Assets\\Scripts\\Collisions\\LaunchPad.cs",
               "RelativeToolTip": "Assets\\Scripts\\Collisions\\LaunchPad.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
