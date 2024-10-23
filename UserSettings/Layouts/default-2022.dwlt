@@ -121,7 +121,11 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 98
+=======
+  controlID: 51
+>>>>>>> Stashed changes
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,8 +168,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
     width: 747.2
     height: 369.6
+=======
+    width: 935
+    height: 481
+>>>>>>> Stashed changes
   m_MinSize: {x: 101, y: 121}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 12}
@@ -218,8 +227,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 747.2
     y: 0
+<<<<<<< Updated upstream
     width: 224
     height: 722.8
+=======
+    width: 279
+    height: 939
+>>>>>>> Stashed changes
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
@@ -956,7 +970,11 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
       m_SelectedIDs: 5e5d0000
+=======
+      m_SelectedIDs: 4cfaffff
+>>>>>>> Stashed changes
       m_LastClickedID: 0
       m_ExpandedIDs: 76eeffff
       m_RenameOverlay:
