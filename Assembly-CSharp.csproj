@@ -68,10 +68,12 @@
     <Compile Include="Assets\Scripts\PlayerControllers\SimpleController.cs" />
     <Compile Include="Assets\Scripts\IterationStatements\DamageHealing.cs" />
     <Compile Include="Assets\Scripts\MenuManager.cs" />
+    <Compile Include="Assets\Scripts\EnemyBehavior.cs" />
     <Compile Include="Assets\Scripts\Playground\ProjectileLife.cs" />
     <Compile Include="Assets\Scripts\Intro\ScriptCreated2.cs" />
     <Compile Include="Assets\Scripts\Vectors\TranslateThatCube.cs" />
     <Compile Include="Assets\Scripts\ReloadDelay.cs" />
+    <Compile Include="Assets\Scripts\PlayerControllers\UnityCharCtrlSimpleMove.cs" />
     <Compile Include="Assets\Scripts\SelectionStatements\IfStatements5.cs" />
     <Compile Include="Assets\Scripts\Collisions\MovingPlatform.cs" />
     <Compile Include="Assets\Scripts\Spawner.cs" />
@@ -107,7 +109,9 @@
     <Compile Include="Assets\Scripts\Vectors\FindThatDistance.cs" />
     <Compile Include="Assets\Scripts\Raycast\GroundCheck.cs" />
     <Compile Include="Assets\Scripts\Playground\SpawnProjectile.cs" />
+    <Compile Include="Assets\Scripts\Raycast\MouseInteract.cs" />
     <Compile Include="Assets\Scripts\PlayerControllers\UnityCtrlInDirection.cs" />
+    <Compile Include="Assets\Scripts\Raycast\FPSShooting.cs" />
     <Compile Include="Assets\Scripts\Playground\ColorChanger.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -978,6 +982,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1080,6 +1088,10 @@
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>Library\ScriptAssemblies\Cinemachine.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>

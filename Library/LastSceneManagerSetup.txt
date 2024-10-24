@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/PlayerControllers.unity
+- path: Assets/Scenes/RaycastTests.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
