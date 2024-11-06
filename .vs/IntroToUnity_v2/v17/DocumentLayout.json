@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\navmesh\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|c:\\users\\niels\\unityprojects\\introtounity_v2\\assets\\scripts\\raycast\\fpsshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\raycast\\fpsshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycast\\fpsshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Raycast\\FPSShooting.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T07:37:19.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T07:37:19.279Z"
             },
             {
               "$type": "Document",
