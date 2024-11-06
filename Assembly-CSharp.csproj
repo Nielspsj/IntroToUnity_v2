@@ -62,40 +62,40 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Intro\FlowCharts.cs" />
     <Compile Include="Assets\Scripts\Collisions\LaunchPad.cs" />
+    <Compile Include="Assets\Scripts\Playground\MenuManager.cs" />
     <Compile Include="Assets\Scripts\Intro\test.cs" />
+    <Compile Include="Assets\Scripts\Playground\ReloadDelay.cs" />
     <Compile Include="Assets\Scripts\SelectionStatements\RollDice.cs" />
     <Compile Include="Assets\Scripts\SelectionStatements\IfStatements1.cs" />
     <Compile Include="Assets\Scripts\PlayerControllers\SimpleController.cs" />
     <Compile Include="Assets\Scripts\IterationStatements\DamageHealing.cs" />
-    <Compile Include="Assets\Scripts\MenuManager.cs" />
-    <Compile Include="Assets\Scripts\EnemyBehavior.cs" />
     <Compile Include="Assets\Scripts\Playground\ProjectileLife.cs" />
     <Compile Include="Assets\Scripts\Intro\ScriptCreated2.cs" />
     <Compile Include="Assets\Scripts\Vectors\TranslateThatCube.cs" />
-    <Compile Include="Assets\Scripts\ReloadDelay.cs" />
     <Compile Include="Assets\Scripts\PlayerControllers\UnityCharCtrlSimpleMove.cs" />
     <Compile Include="Assets\Scripts\SelectionStatements\IfStatements5.cs" />
     <Compile Include="Assets\Scripts\Collisions\MovingPlatform.cs" />
-    <Compile Include="Assets\Scripts\Spawner.cs" />
     <Compile Include="Assets\Scripts\Collisions\CollisionEffect.cs" />
     <Compile Include="Assets\Scripts\PlayerControllers\MouseRotator.cs" />
     <Compile Include="Assets\Scripts\SelectionStatements\IfStatements3.cs" />
+    <Compile Include="Assets\Scripts\PlayerControllers\Motor_CharCtrl.cs" />
     <Compile Include="Assets\Scripts\SelectionStatements\ThievingProspects.cs" />
     <Compile Include="Assets\Scripts\Playground\CannonController.cs" />
     <Compile Include="Assets\Scripts\Intro\Variables.cs" />
     <Compile Include="Assets\Scripts\PlayerControllers\MoveInDirection.cs" />
     <Compile Include="Assets\Scripts\PlayerControllers\VelocityRollAround.cs" />
-    <Compile Include="Assets\Scripts\BackgroundMusicPlayer.cs" />
     <Compile Include="Assets\Scripts\Intro\ScriptCreated1.cs" />
+    <Compile Include="Assets\Scripts\Playground\Spawner.cs" />
     <Compile Include="Assets\Scripts\SelectionStatements\ReachingTheTreasure.cs" />
+    <Compile Include="Assets\Scripts\Playground\FlashLightController.cs" />
     <Compile Include="Assets\Scripts\Playground\LeftFlipperController.cs" />
     <Compile Include="Assets\Scripts\Collisions\Pickup.cs" />
     <Compile Include="Assets\Scripts\Vectors\FlyingCuby.cs" />
-    <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\PlayerControllers\VelocityController.cs" />
     <Compile Include="Assets\Scripts\SelectionStatements\IfStatements2.cs" />
     <Compile Include="Assets\Scripts\Navmesh\Navigation.cs" />
     <Compile Include="Assets\Scripts\Intro\ScriptCreated3.cs" />
+    <Compile Include="Assets\Scripts\Playground\EnemyBehavior.cs" />
     <Compile Include="Assets\Scripts\Vectors\FlyingCube.cs" />
     <Compile Include="Assets\Scripts\Playground\PhysicsTests.cs" />
     <Compile Include="Assets\Scripts\SelectionStatements\ReachingTheTreasure_Full.cs" />
@@ -106,6 +106,7 @@
     <Compile Include="Assets\Scripts\Intro\HelloWorld.cs" />
     <Compile Include="Assets\Scripts\Random\DiceRoller.cs" />
     <Compile Include="Assets\Scripts\SelectionStatements\ChoosingAnAction.cs" />
+    <Compile Include="Assets\Scripts\Playground\GameManager.cs" />
     <Compile Include="Assets\Scripts\PlayerControllers\UnityCharacterController.cs" />
     <Compile Include="Assets\Scripts\Vectors\FindThatDistance.cs" />
     <Compile Include="Assets\Scripts\Raycast\GroundCheck.cs" />
@@ -113,6 +114,7 @@
     <Compile Include="Assets\Scripts\Raycast\MouseInteract.cs" />
     <Compile Include="Assets\Scripts\PlayerControllers\UnityCtrlInDirection.cs" />
     <Compile Include="Assets\Scripts\Raycast\FPSShooting.cs" />
+    <Compile Include="Assets\Scripts\Playground\BackgroundMusicPlayer.cs" />
     <Compile Include="Assets\Scripts\Playground\ColorChanger.cs" />
   </ItemGroup>
   <ItemGroup>

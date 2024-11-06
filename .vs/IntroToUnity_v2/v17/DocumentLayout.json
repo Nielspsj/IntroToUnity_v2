@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|c:\\users\\niels\\unityprojects\\introtounity_v2\\assets\\scripts\\navmesh\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|c:\\users\\niels\\unityprojects\\introtounity_v2\\assets\\scripts\\playground\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playground\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\playercontrollers\\unitycharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrollers\\unitycharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\navmesh\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\navmesh\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\raycast\\fpsshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycast\\fpsshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\raycast\\mouseinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\assets\\scripts\\collisions\\collisioneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A3F27DF-638E-3158-7A4C-C8B2146B6F96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collisions\\collisioneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\EnemyBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +43,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FlashLightController.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Playground\\FlashLightController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Playground\\FlashLightController.cs",
+              "ToolTip": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Playground\\FlashLightController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Playground\\FlashLightController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:37:57.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnityCharacterController.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\UnityCharacterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControllers\\UnityCharacterController.cs",
+              "ToolTip": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\PlayerControllers\\UnityCharacterController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControllers\\UnityCharacterController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCAAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:40:20.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Navigation.cs",
               "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Navmesh\\Navigation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Navmesh\\Navigation.cs",
@@ -42,12 +75,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Navmesh\\Navigation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T20:50:08.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T20:50:08.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "EnemyBehavior.cs",
               "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\EnemyBehavior.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBehavior.cs",
@@ -59,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FPSShooting.cs",
               "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Raycast\\FPSShooting.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Raycast\\FPSShooting.cs",
@@ -71,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MouseInteract.cs",
               "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Raycast\\MouseInteract.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Raycast\\MouseInteract.cs",
@@ -83,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CollisionEffect.cs",
               "DocumentMoniker": "C:\\Users\\niels\\UnityProjects\\IntroToUnity_v2\\Assets\\Scripts\\Collisions\\CollisionEffect.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Collisions\\CollisionEffect.cs",
